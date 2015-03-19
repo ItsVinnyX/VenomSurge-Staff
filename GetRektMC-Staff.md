@@ -1,6 +1,4 @@
 # GetRektMC-Staff
-Staff Info
-
 
 Staff Guidelines
 
