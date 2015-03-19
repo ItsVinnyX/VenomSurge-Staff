@@ -2,7 +2,7 @@
 
 Staff Guidelines
 
-A good thing to remember when doing your jobs is to make sure that MineHut is always a fun place to be. 
+A good thing to remember when doing your jobs is to make sure that GetRektMC is always a fun place to be. 
 If someone accidentally double sends a message, there is no need to warn, or kick him for that. 
 
 As a Helper, you are strictly on the lookout for Spammers/Advertisers.
