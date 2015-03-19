@@ -1,2 +1,0 @@
-# GetRektMC-Staff
-Staff Info
