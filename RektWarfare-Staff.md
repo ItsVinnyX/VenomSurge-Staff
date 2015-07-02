@@ -230,6 +230,7 @@ gkick :
 Usage : gkick <player> [reason]
 
 Description : Kick the player from the network.​
+
 --------------------------------------------------------------------------------------
 
 Warnings :
