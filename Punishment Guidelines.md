@@ -1,13 +1,19 @@
 # Punishment Guidelines
+
+#REMEMBER. ALWAYS GAIN ACCURATE EVIDENCE BEFORE ISSUING A PUNISHMENT, WHETHER IT BE IN VIDEO OR PICTURE FORMAT. MAKE SURE YOUR EVIDENCE CLEARLY SHOWS THEM HACKING.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Hacking
 
-- First warn them to turn the hacks off, if they continue to hack ban them for 3 days then if you catch them again ban them forever.
-
-- Please use this format for the second offence: /gban <player> You were banned for hacking please appeal @ www.RektWarfare.com
-
-- Please use this format for the second offence: /gbanip <player> You were banned for hacking please appeal @ www.RektWarfare.com
+- 1st offence: /warn <player> <reason>
+- Warn the player for hacking. If they do not turn them off, they will be punished.
+- 2nd offence: /tempban <player> <time> <time form> <reason>
+- Player = player username
+- Time Form = <s= seconds m= months d= days y= years
+- Time= total amount of <timeform>
+- If player JoeBobfrank119 is second offence hacking, you would type:
+- /tempban joebobfrank119 3 d Hacking. Appeal @ rektwarfare.com
+- Always include a reason and an appeal link.
 
 - Illegal mods will have the same exact punishments as hacking.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -16,12 +22,17 @@
 
 #- Swearing: If a player is swearing in chat please give them a warning.
 
-- Please use this format when warning the player: /warn <player> Please stop swearing if you continue you will be muted.
+-To warn a player, do /warn <player> <reason>
+-If a player is swearing after their warn, temporarily mute them for no more than 6 hours.
+/tempmute <player> <time> <time form>
+(You do not have to include a reason in the command itself, but you must privately message them the reason they were muted.
+If player JoeBob119 is swearing after his warn, you would type:
+/tempban JoeBob119 3 h
 
-- Please use this format when the player continues to swear: /gtempmute <player> <time (NO MORE THAN 6 HOURS)> You didn't stop swearing you are know temporary muted.
-
-- If the player continues to swear after the mute simply ban them for 1 day with this format: /gtempban <player> 1d You have been banned for one day for swearing.
-
+If they persist to swear, ban them for one day.
+/tempban <player> <time> <time form> <reason>
+/tempban JoeBob119 1 d Consistant Swearing.
+-You must only include an appeal link for very long bans (3 days and up)
 - Wtf is exempt as this is not a offensive to you or anyone else.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -36,25 +47,43 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#-Advertising: If a player advertises in chat give them a six hour temp mute if they continue to advertise please give them a one day temp ban if they continue still then just ban them.
+#-Advertising: If a player advertises in chat give them a six hour temp mute AFTER you warn them.
+/warn <player> <reason>
+/warn joebob119 Advertising
+/tempmute <player> <time> <time form> 
+/tempmute JoeBob119 6 h 
+If they continue to advertise, ban them perm.
+/ban <player> <reason>
+/ban joebob119 Consistant Advertising.
 
-- Make sure to give them a warning on the first temp mute so you know they done it before if it ever happens again.
+-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Inpersonating Staff
 
-- If a player is inpersonating a staff member you will punish them with a six hour temp mute.
+-Impersonating staff is simply up to your discreation.
+You generally want to warn them before taking any serious action.
+/warn <player> <reason>
+/warn joebob119 Impersonation of Staff
+If they continue, mute them for 1-6 hours.
+/tempmute <player> <time> <time form> 
+/tempmute joebob119 3 h
+(Again, pm them the reason they were punished.)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Abusing Glitches
 
 - If you see a player abusing a glitch ban them for a day.
+- /tempban <player> <time> <time format> <reason>
+- /tempban joebob119 1 d Abusing Glitch.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Ban Evading
 
-- If a player is Ban Evading ban their ip and ban their account for perm. Always make your reasons include please appeal @ www.RektWarfare.com
+- If a player is Ban Evading ban their ip and ban their account for perm. For a perm ban, always include an appeal link and reason.
+- /ipban <player> <reason>
+- /ipban joebob119 Ban evading. Appeal @ rektwarfare.com
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
