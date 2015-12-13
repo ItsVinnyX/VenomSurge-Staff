@@ -5,15 +5,15 @@
 
 # Hacking
 
-- 1st offence: /warn <player> <reason>
+- 1st offence: /warn (player) (reason)
 - 
 - Warn the player for hacking. If they do not turn them off, they will be punished.
 - 
-- 2nd offence: /tempban <player> <time> <time form> <reason>
+- 2nd offence: /tempban (player) (time) (time form) (reason)
 - 
 - Player = player username
 - 
-- Time Form = <s= seconds m= months d= days y= years
+- Time Form = s= seconds m= months d= days y= years
 - 
 - Time= total amount of <timeform>
 - 
@@ -30,11 +30,11 @@
 
 #- Swearing: If a player is swearing in chat please give them a warning
 
--To warn a player, do /warn <player> <reason>
+-To warn a player, do /warn (player) (reason)
 
 -If a player is swearing after their warn, temporarily mute them for no more than 6 hours.
 
-/tempmute <player> <time> <time form>
+/tempmute (player) (time) (time form)
 
 -(You do not have to include a reason in the command itself, but you must privately message them the reason they were muted.
 
@@ -44,7 +44,7 @@
 
 -If they persist to swear, ban them for one day.
 
--/tempban <player> <time> <time form> <reason>
+-/tempban (player) (time) (time form) (reason)
 -/tempban JoeBob119 1 d Consistant Swearing.
 
 -You must only include an appeal link for very long bans (3 days and up)
@@ -65,17 +65,17 @@
 
 #-Advertising: If a player advertises in chat give them a six hour temp mute AFTER you warn them.
 
--/warn <player> <reason>
+-/warn (player) (reason)
 
 -/warn joebob119 Advertising
 
--/tempmute <player> <time> <time form> 
+-/tempmute (player) (time0 (time form) 
 
 -/tempmute JoeBob119 6 h 
 
 -If they continue to advertise, ban them perm.
 
--/ban <player> <reason>
+-/ban (player) (reason)
 
 -/ban joebob119 Consistant Advertising.
 
@@ -88,13 +88,13 @@
 
 -You generally want to warn them before taking any serious action.
 
--/warn <player> <reason>
+-/warn (player) (reason)
 
 -/warn joebob119 Impersonation of Staff
 
 -If they continue, mute them for 1-6 hours.
 
--/tempmute <player> <time> <time form> 
+-/tempmute (player) (time) (time format)
 
 -/tempmute joebob119 3 h
 
@@ -107,7 +107,7 @@
 
 - If you see a player abusing a glitch ban them for a day.
 - 
-- /tempban <player> <time> <time format> <reason>
+- /tempban (player) (time) (time format) (reason)
 - 
 - /tempban joebob119 1 d Abusing Glitch.
 - 
@@ -117,7 +117,7 @@
 
 - If a player is Ban Evading ban their ip and ban their account for perm. For a perm ban, always include an appeal link and reason.
 - 
-- /ipban <player> <reason>
+- /ipban (player) (reason)
 - 
 - /ipban joebob119 Ban evading. Appeal @ rektwarfare.com
 - 
