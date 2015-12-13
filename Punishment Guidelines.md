@@ -20,7 +20,7 @@
 
 # Chat Punishments
 
-#- Swearing: If a player is swearing in chat please give them a warning.
+#- Swearing: If a player is swearing in chat please give them a warning
 
 -To warn a player, do /warn <player> <reason>
 -If a player is swearing after their warn, temporarily mute them for no more than 6 hours.
