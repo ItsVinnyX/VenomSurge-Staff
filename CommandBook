@@ -1,77 +1,68 @@
 #CommandBook
 -----------------------------------------------------------------------------------------------------------------------------------------
--Here, you will find an easy to read, simple commandbook for all of the different ranks here at RektWarfare.
-
-#Junior Moderator
+-Here, you will find an easy to read, simple commandbook for all of the different ranks here at VenomSurge.
+- Key: -Time format is h= hours d= days w= weeks m= minutes
+- Example: /gtempban Vinex_ 3d Hacking
 -----------------------------------------------------------------------------------------------------------------------------------------
--As a Junior Mod, you are strictly to only mute/warn players. You are NEVER to ban a user from the network.
+# Helper
+-----------------------------------------------------------------------------------------------------------------------------------------
+-As a Helper, you are strictly to only mute/warn players. You are NEVER to ban a user from the network.
 -/warn (player) (reason)
 -Warns a player.
 
--/tempmute (player) (time) (time format)
--Temporarily mutes a player.
+-/gtempmute (player) (time) (time format)
+-Temporarily mutes a player across all servers.
 -Time form is d= days w= weeks m= minutes y= years h= hours
 
--/mute (player) (reason)
--Perm mutes a player.
+-/gmute (player) (reason)
+-Perm mutes a player across all servers.
 -Always include an appeal link in your reason.
 
--/unmute (player)
-Unmutes a player.
+-/gunmute (player)
+Unmutes a player across all servers.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-#Moderator
+# Moderator
 -----------------------------------------------------------------------------------------------------------------------------------------
--As a Moderator, your duties are the same as a Junior Moderator, except you will have the power to ban players from the network.
+-As a Moderator, your duties are the same as an Helper, except you will have the power to ban players from the network.
 -Your additional commands include:
--/tempban (player) (time) (time format) (reason)
+-/gtempban (player) (time) (time format) (reason)
 -Always include an appeal link in your reason.
 
--/ban (player) (reason)
-Perm bans a user.
+-/gban (player) (reason)
+Perm bans a user across network.
 
--Time form is h= hours d= days w= weeks m= minutes
--/tempbanip -s (player) (time) (time format) (reason)
+-/gtempbanip -s (player) (time) (time format) (reason)
 --s makes the broadcast silent, to protect the player.
 When banning an ip, always make it silent.
 
-/unban (player)
-Unbans a player.
+/gunban (player)
+Unbans a player across all servers.
 
 --------------------------------------------------------------------------------------------------------------------------------------
-#Administrator
+# Administrator
 --------------------------------------------------------------------------------------------------------------------------------------
 
--As an Administrator, it is your job to train the new Junior Moderators to ensure they moderate the server efficiently.
+-As an Administrator, it is your job to train the new Helpers to ensure they moderate the server efficiently.
 -As an administrator, you will most likely be the one to report/deny ban/mute appeals, and accept/deny reports.
 -You will also manage promoting/demoting players into different staff ranks and premium ranks.
 /manuadd (player) (rank)
 Adds a player to a rank.
-Ex: /manuadd Vinex_ Champion
-This would add Vinex_ to the champion rank.
+Ex: /setrank Vinex_ Owner
+This would set Vinex_ to the owner rank.
 
 /manudel (player)
-Deletes the current rank of a player
+Deletes the current rank of a player and there permission but restores them back to default.
 
-/mangadd (group)
-Makes a new rank
+/econ add/remove/set (player) (amount)
+Adds, removes, or sets the balance of a player.
 
-/mangdel (group)
-Deletes a rank
-
-/eco (action) (player) (amount)
-Gives, takes, or resets the balance of a player.
-use * to select all players.
-Possible actions include take, give, reset.
-
-/endgame
-Ends the current game of SnD
+/start
+Starts a match and bypasses the timer.
 
 /forcekit (kit)
-Forces a kit for that round of snd.
+Forces a kit for that match.
 
 /restart
 Restarts the server.
 Only use in the event that the game has glitched/broken.
-
-
