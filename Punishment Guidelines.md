@@ -1,6 +1,6 @@
 # Punishment Guidelines
 
-#REMEMBER. ALWAYS GAIN ACCURATE EVIDENCE BEFORE ISSUING A PUNISHMENT, WHETHER IT BE IN VIDEO OR PICTURE FORMAT. MAKE SURE YOUR EVIDENCE CLEARLY SHOWS THEM HACKING.
+# REMEMBER! ALWAYS GAIN ACCURATE EVIDENCE BEFORE ISSUING A PUNISHMENT, WHETHER IT BE IN VIDEO OR PICTURE FORMAT. MAKE SURE YOUR EVIDENCE CLEARLY SHOWS THEM BREAKING A RULE.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Hacking
@@ -9,7 +9,7 @@
 - 
 - Warn the player for hacking. If they do not turn them off, they will be punished.
 - 
-- 2nd offence: /tempban (player) (time) (time form) (reason)
+- 2nd offence: /gtempban (player) (time) (time form) (reason)
 - 
 - Player = player username
 - 
@@ -19,7 +19,7 @@
 - 
 - If player JoeBobfrank119 is second offence hacking, you would type:
 - 
-- /tempban joebobfrank119 3 d Hacking. Appeal @ rektwarfare.com
+- /gtempban joebobfrank119 3 d Hacking. Appeal @ www.venomsurge.com
 - 
 - Always include a reason and an appeal link.
 
@@ -34,22 +34,22 @@
 
 -If a player is swearing after their warn, temporarily mute them for no more than 6 hours.
 
-/tempmute (player) (time) (time form)
+/gtempmute (player) (time) (time form)
 
 -(You do not have to include a reason in the command itself, but you must privately message them the reason they were muted.
 
 -If player JoeBob119 is swearing after his warn, you would type:
 
--/tempban JoeBob119 3 h
+-/gtempban JoeBob119 3 h
 
 -If they persist to swear, ban them for one day.
 
--/tempban (player) (time) (time form) (reason)
--/tempban JoeBob119 1 d Consistant Swearing.
+-/gtempban (player) (time) (time form) (reason)
+-/gtempban JoeBob119 1 d Consistant Swearing.
 
 -You must only include an appeal link for very long bans (3 days and up)
 
-- Wtf is exempt as this is not a offensive to you or anyone else.
+-Wtf is exempt as this is not a offensive to you or anyone else.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -69,15 +69,15 @@
 
 -/warn joebob119 Advertising
 
--/tempmute (player) (time0 (time form) 
+-/gtempmute (player) (time0 (time form) 
 
--/tempmute JoeBob119 6 h 
+-/gtempmute JoeBob119 6 h 
 
 -If they continue to advertise, ban them perm.
 
--/ban (player) (reason)
+-/gban (player) (reason)
 
--/ban joebob119 Consistant Advertising.
+-/gban joebob119 Consistant Advertising.
 
 -
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -94,9 +94,9 @@
 
 -If they continue, mute them for 1-6 hours.
 
--/tempmute (player) (time) (time format)
+-/gtempmute (player) (time) (time format)
 
--/tempmute joebob119 3 h
+-/gtempmute joebob119 3 h
 
 -(Again, pm them the reason they were punished.)
 
@@ -107,9 +107,9 @@
 
 - If you see a player abusing a glitch ban them for a day.
 - 
-- /tempban (player) (time) (time format) (reason)
+- /gtempban (player) (time) (time format) (reason)
 - 
-- /tempban joebob119 1 d Abusing Glitch.
+- /gtempban joebob119 1 d Abusing Glitch.
 - 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -117,9 +117,9 @@
 
 - If a player is Ban Evading ban their ip and ban their account for perm. For a perm ban, always include an appeal link and reason.
 - 
-- /ipban (player) (reason)
+- /gbanip (player) (reason)
 - 
-- /ipban joebob119 Ban evading. Appeal @ rektwarfare.com
+- /gbanip joebob119 Ban evading. Appeal @ www.Venomsurge.com
 - 
 - Always insert the -s flag to make the message silent. It wil protect the player being banned.
 
