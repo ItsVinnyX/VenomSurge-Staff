@@ -14,6 +14,7 @@ ALWAYS GAIN ACCURATE EVIDENCE BEFORE ISSUING A PUNISHMENT, WHETHER IT BE IN VIDE
 - Time= total amount of <timeform>
 - If player JoeBobfrank119 is second offence hacking, you would type:
 - /gtempban joebobfrank119 3 d Hacking. Appeal @ www.venomsurge.com
+- Depending on the offense they've committed it'd be a permanent ban.
 - Always include a reason and an appeal link.
 - Illegal mods will have the same exact punishments as hacking.
 
