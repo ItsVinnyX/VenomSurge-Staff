@@ -54,18 +54,18 @@ Adds a player to a rank.
 Ex: /setrank Vinex_ Owner
 This would set Vinex_ to the owner rank.
 
-/manudel (player)
+- /manudel (player)
 Deletes the current rank of a player and there permission but restores them back to default.
 
-/econ add/remove/set (player) (amount)
+- /econ add/remove/set (player) (amount)
 Adds, removes, or sets the balance of a player.
 
-/start
+- /start
 Starts a match and bypasses the timer.
 
-/forcekit (kit)
+- /forcekit (kit)
 Forces a kit for that match.
 
-/restart
+- /restart
 Restarts the server.
 Only use in the event that the game has glitched/broken.
