@@ -1,5 +1,5 @@
 # This is the www.venomsurge.com/forums rulebook.
--In here, you'll see the basic guidelines when conducting your duties as staff on the forums.
+- In here, you'll see the basic guidelines when conducting your duties as staff on the forums.
 --------------------------------------------------------------------------------------------------------------------------------------
 - Generally, accepting/denying reports of an accused player are left to Moderators+. Helpers generally do not need to manage the forums.
 
