@@ -60,7 +60,7 @@ Lock a thread only if it is:
 -A resolved ban appeal
 -A resolved player report
 -A resolved map submission
-- It is an old thread that is just being post-boosted
+-It is an old thread that is just being post-boosted
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Whenever doing ANYTHING on the forums be sure to be professional and mature. You are representing any guests that may visit the server, so you want them to think highly of us.
