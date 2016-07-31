@@ -1,8 +1,10 @@
 # CommandBook
 --------------------------------------------------------------------------------------------------------------------------------------
+
 - Here, you will find an easy to read, simple commandbook for all of the different ranks here at VenomSurge.
 - Key: -Time format is h= hours d= days w= weeks m= minutes
 - Example: /gtempban Vinex_ 3d Hacking
+
 --------------------------------------------------------------------------------------------------------------------------------------
 # Helper
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -21,18 +23,18 @@
 - /gunmute (player)
 Unmutes a player across all servers.
 
------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
 # Moderator
------------------------------------------------------------------------------------------------------------------------------------------
--As a Moderator, your duties are the same as an Helper, except you will have the power to ban players from the network.
--Your additional commands include:
--/gtempban (player) (time) (time format) (reason)
--Always include an appeal link in your reason.
+--------------------------------------------------------------------------------------------------------------------------------------
+- As a Moderator, your duties are the same as an Helper, except you will have the power to ban players from the network.
+- Your additional commands include:
+- /gtempban (player) (time) (time format) (reason)
+- Always include an appeal link in your reason.
 
--/gban (player) (reason)
+- /gban (player) (reason)
 Perm bans a user across network.
 
--/gtempbanip -s (player) (time) (time format) (reason)
+- /gtempbanip -s (player) (time) (time format) (reason)
 - -s makes the broadcast silent, to protect the player.
 When banning an ip, always make it silent.
 
