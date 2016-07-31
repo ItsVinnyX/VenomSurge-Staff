@@ -49,7 +49,7 @@ Unbans a player across all servers.
 - As an administrator, you will most likely be the one to report/deny ban/mute appeals, and accept/deny reports.
 - You will also manage promoting/demoting players into different staff ranks and premium ranks.
 
-/manuadd (player) (rank)
+- /manuadd (player) (rank)
 Adds a player to a rank.
 Ex: /setrank Vinex_ Owner
 This would set Vinex_ to the owner rank.
