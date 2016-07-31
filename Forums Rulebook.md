@@ -1,6 +1,8 @@
 # This is the www.venomsurge.com/forums rulebook.
 --------------------------------------------------------------------------------------------------------------------------------------
+
 In here, you'll see the basic guidelines when conducting your duties as staff on the forums.
+
 --------------------------------------------------------------------------------------------------------------------------------------
 - Generally, accepting/denying reports of an accused player are left to Moderators+. Helpers generally do not need to manage the forums.
 
@@ -61,6 +63,7 @@ Lock a thread only if it is:
 -A resolved player report
 -A resolved map submission
 -It is an old thread that is just being post-boosted
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Whenever doing ANYTHING on the forums be sure to be professional and mature. You are representing any guests that may visit the server, so you want them to think highly of us.
