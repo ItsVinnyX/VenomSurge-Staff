@@ -22,30 +22,30 @@
 
 - Swearing: If a player is swearing in chat please give them a warning
 
--To warn a player, do /warn (player) (reason)
+- To warn a player, do /warn (player) (reason)
 
--If a player is swearing after their warn, temporarily mute them for no more than 6 hours.
+- If a player is swearing after their warn, temporarily mute them for no more than 6 hours.
 
--/gtempmute (player) (time) (time form)
+- /gtempmute (player) (time) (time form)
 
--(You do not have to include a reason in the command itself, but you must privately message them the reason they were muted.
+- (You do not have to include a reason in the command itself, but you must privately message them the reason they were muted.
 
--If player JoeBob119 is swearing after his warn, you would type:
+- If player JoeBob119 is swearing after his warn, you would type:
 
--/gtempban JoeBob119 3 h
+- /gtempban JoeBob119 3 h
 
--If they persist to swear, ban them for one day.
+- If they persist to swear, ban them for one day.
 
--/gtempban (player) (time) (time form) (reason)
--/gtempban JoeBob119 1 d Consistant Swearing.
+- /gtempban (player) (time) (time form) (reason)
+- /gtempban JoeBob119 1 d Consistant Swearing.
 
--You must only include an appeal link for very long bans (3 days and up)
+- You must only include an appeal link for very long bans (3 days and up)
 
--Wtf is exempt as this is not a offensive to you or anyone else.
+- Wtf is exempt as this is not a offensive to you or anyone else.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-- Bypassing: Basically the same punishments for Swearing apply if they are bypassing the filter. Example: If cake was a filtered word -and you typed "c4ke" you would be warned/banned.
+- Bypassing: Basically the same punishments for Swearing apply if they are bypassing the filter. Example: If cake was a filtered word and you typed "c4ke" you would be warned/banned.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -55,43 +55,41 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
--Advertising: If a player advertises in chat give them a six hour temp mute AFTER you warn them.
+- Advertising: If a player advertises in chat give them a six hour temp mute AFTER you warn them.
 
--/warn (player) (reason)
+- /warn (player) (reason)
 
--/warn joebob119 Advertising
+- /warn joebob119 Advertising
 
--/gtempmute (player) (time0 (time form) 
+- /gtempmute (player) (time0 (time form) 
 
--/gtempmute JoeBob119 6 h 
+- /gtempmute JoeBob119 6 h 
 
--If they continue to advertise, ban them perm.
+- If they continue to advertise, ban them perm.
 
--/gban (player) (reason)
+- /gban (player) (reason)
 
 -/gban joebob119 Consistant Advertising.
 
--
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
 
 # Inpersonating Staff
 
--Impersonating staff is simply up to your discreation.
+- Impersonating staff is simply up to your discreation.
 
--You generally want to warn them before taking any serious action.
+- You generally want to warn them before taking any serious action.
 
--/warn (player) (reason)
+- /warn (player) (reason)
 
--/warn joebob119 Impersonation of Staff
+- /warn joebob119 Impersonation of Staff
 
--If they continue, mute them for 1-6 hours.
+- If they continue, mute them for 1-6 hours.
 
--/gtempmute (player) (time) (time format)
+- /gtempmute (player) (time) (time format)
 
--/gtempmute joebob119 3 h
+- /gtempmute joebob119 3 h
 
 -(Again, pm them the reason they were punished.)
-
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -100,6 +98,7 @@
 - If you see a player abusing a glitch ban them for a day.
 - /gtempban (player) (time) (time format) (reason)
 - /gtempban joebob119 1 d Abusing Glitch.
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # Ban Evading
