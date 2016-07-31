@@ -1,6 +1,7 @@
 # Punishment Guidelines
 
-# REMEMBER! ALWAYS GAIN ACCURATE EVIDENCE BEFORE ISSUING A PUNISHMENT, WHETHER IT BE IN VIDEO OR PICTURE FORMAT. MAKE SURE YOUR EVIDENCE CLEARLY SHOWS THEM BREAKING A RULE.
+# REMEMBER! 
+ALWAYS GAIN ACCURATE EVIDENCE BEFORE ISSUING A PUNISHMENT, WHETHER IT BE IN VIDEO OR PICTURE FORMAT. MAKE SURE YOUR EVIDENCE CLEARLY SHOWS THEM BREAKING A RULE.
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # Hacking
@@ -69,7 +70,7 @@
 
 - /gban (player) (reason)
 
--/gban joebob119 Consistant Advertising.
+- /gban joebob119 Consistant Advertising.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -89,7 +90,7 @@
 
 - /gtempmute joebob119 3 h
 
--(Again, pm them the reason they were punished.)
+- (Again, pm them the reason they were punished.)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
