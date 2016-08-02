@@ -1,0 +1,108 @@
+Asking them to screenshare:
+
+So, firstly, I believe all Mods know that the first thing they do is to tell them to screenshare with the following statement (or something along the lines of this) "------ you do not log out or you will be banned. You have __ minutes to message me your Skype."
+Now, I know many people's excuse is "I don't have Skype" or "My parents won't let me get Skype", and I see almost every Moderator take the approach of "Install Skype now". Now, if this is there excuse, then you can tell them to use http://join.me , this is a free screensharing website. No viruses, no nothing. Completely free, and if they still say some excuse of why they can't, then that pretty much means they are lying.
+If by this point, you have there Skype or have gotten them to use join.me , let's head on to the next step.
+
+Investigation:
+
+Alrighty, time to go into detail on how to properly check their Minecraft for hacks.
+
+Their Minecraft Settings (In-Game):
+So, to check their In-Game settings is actually the easiest of spots to check out of all. There are only one placesyou need to check when it comes to their In-Game settings, and that is when they hit escape.
+
+This is what a normal Minecraft would look like when hitting escape:
+(Note, Mod Options is when someone is using Forge, those are not hacks. Open to LAN is a Single Player feature as well)
+http://imgur.com/sR1TOGJ
+
+This is what a Minecraft hacked client would look like when hitting escape:
+(In this, I used the hacked client Huzuni for demonstration purposes only, and used them in Single Player)
+http://imgur.com/tMoIfCs
+
+At this point, if you didn't see anything like the above screenshot, here is the next step to take. Asking them to disconnect from the server itself. This will show the main menu, and when it comes to most hacked clients, they have a different background with the name of the client in it oppose to just the rotating world.
+
+This is what a Normal Minecraft would look like when disconnected from the server:
+(Note, I am using Forge with a few mods (ArmorStatus, Damage Indicators, DirectionalHUD, StatusEffects, Bspkrscore Mod, Optifine and VoxelMap) so, overlook the "Mods" tab as it comes with Forge)
+http://imgur.com/K6SH46Y
+
+This is what a Minecraft hacked client would look like when disconnected from the server:
+(Again, for demonstration purposes I am using Huzuni)
+http://imgur.com/P6gHpl8
+
+Now, if nothing matches the screenshots above (or something similar to them), let's move on to the next step.
+
+Checking the Minecraft Launcher:
+Now, to start off ask them to exit out of Minecraft itself (if they haven't already) and tell them to launch their Minecraft launcher, but do not click Play. Once this is done, check for the following -
+- The bottom right corner of the launcher, if it looks something like this:
+http://imgur.com/UB1gva2
+this means they do not have hacks on, and are good to go!
+
+- If it looks something like this:
+http://imgur.com/HCHIxvp
+this means they have hacks on, and should result in a ban!
+
+Now, if nothing matches these screenshots, we shall move on to the next step.
+
+Checking the Minecraft Launcher Profiles (Not the best way to check, but a way):
+
+Up at the top of the Minecraft Launcher, their should be a tab named "Profile Editor", have them click on this tab, and check the profiles.
+-If the first or second profile looks something like this:
+http://imgur.com/Z59ni3t
+this means they did not use recent hacks and are good to go!
+
+If the first or second profile looks something like this:
+http://imgur.com/YuCKe86
+then they were using hacks recently and should be reported to a higher up if unsure seeing as this isn't the best way to check for hacks, but still is a way.
+
+Now, if nothing matches the screenshots above, lets move on to the next step.
+
+
+Checking the "Edit Profile" tab:
+
+Now, this one is more of an explanation than it is using screenshots, so here we go step by step:
+
+1) Have them click the "Edit Profile" tab at the bottom left of their Minecraft Launcher.
+2) Have them click the arrow by the section "User Version"
+3) Have them slowly scroll through this list from top to bottom.
+4) If you see anything like "release Huzuni" or "release Weepcraft", then there were hacks in their launcher.
+
+If nothing matches the steps above, let's head on to the final steps of the screensharing process.
+
+Checking the .minecraft:
+
+Have them exit out of Minecraft or the Launcher. Once this is comepleted, have them click the windows button on their keyboard and R. This will bring up a run application. (If they don't have the windows button for some reason, have the type in the search "Run" and have them click that)
+Once they have the Run application open, have them type in %appdata%
+When this open, have them click ".minecraft"
+When they click .minecraft check the following:
+
+Any hacked client names as a folder:
+
+When they have opened their .minecraft, check for something like this:
+-If their .minecraft looks something like this:
+(Note, overlook a folder named "mods" as that is for Forge mods like I listed up above)
+http://imgur.com/f2QFYXI
+they are fine and good to go on!
+
+-If their .minecraft looks something like this:
+(Note, if they have a folder named "Huzuni" or something along that lines like in the screenshot below, they have hacks in their .minecraft)
+http://imgur.com/DcMty9L
+they have hacks located in their .minecraft and are not good to go.
+
+If nothing matches the screenshots above, they are ready to move on to the final step of the screensharing process.
+
+.minecraft Versions List:
+
+When in the .minecraft, have them click on the folder "Versions" and look for the following:
+-If they have something in their versions that looks like this:
+http://imgur.com/fByBuWK
+they are good to go!
+
+-If they have something in their versions that looks like this:
+http://imgur.com/Yu80kK4
+they have hacks located in their versions folder and aren't good to go.
+
+
+The Conclusion:
+
+In conclusion, if anything matches one of these screenshots above then they do/did have hacks in their client, and should be either banned or reported to a higher up for their judgement to be taken into consideration to determine if they should be banned or not for hacks.
+If nothing matches one of the above screenshots, then they do NOT have hacks installed into their client, and should be good to go and play on VenomSurge!
