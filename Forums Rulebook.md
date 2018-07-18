@@ -1,4 +1,4 @@
-# This is the www.venomsurge.com/forums rulebook.
+# This is the www.venomsurge.com/forum rulebook.
 --------------------------------------------------------------------------------------------------------------------------------------
 
 In here, you'll see the basic guidelines when conducting your duties as staff on the forums.
