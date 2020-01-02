@@ -13,7 +13,7 @@ ALWAYS GAIN ACCURATE EVIDENCE BEFORE ISSUING A PUNISHMENT, WHETHER IT BE IN VIDE
 - Time Form = s= seconds m= months d= days y= years
 - Time= total amount of <timeform>
 - If player JoeBobfrank119 is second offence hacking, you would type:
-- /gtempban joebobfrank119 3 d Hacking. Appeal @ www.venomsurge.com
+- /gtempban joebobfrank119 3 d Hacking. Appeal @ www.venomsurge.net
 - Depending on the offense they've committed it'd be a permanent ban.
 - Always include a reason and an appeal link.
 - Illegal mods will have the same exact punishments as hacking.
@@ -107,7 +107,7 @@ ALWAYS GAIN ACCURATE EVIDENCE BEFORE ISSUING A PUNISHMENT, WHETHER IT BE IN VIDE
 
 - If a player is Ban Evading ban their ip and ban their account for perm. For a perm ban, always include an appeal link and reason.
 - /gbanip (player) (reason)
-- /gbanip joebob119 Ban evading. Appeal @ www.venomsurge.com
+- /gbanip joebob119 Ban evading. Appeal @ www.venomsurge.net
 - Always insert the -s flag to make the message silent. It will protect the player being banned.
 
 --------------------------------------------------------------------------------------------------------------------------------------
